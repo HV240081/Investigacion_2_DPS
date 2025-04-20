@@ -30,4 +30,6 @@ Añadir adb.exe a tu PATH
   Para correr el proyecto en API escribir el siguiente comando:
   node app.js
 
+  Enlace de video de aplicacion funcionando: https://youtu.be/xvzfN3fjzZI
+
   
